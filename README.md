@@ -17,17 +17,22 @@
 
 # Ekran Görüntüleri
 ## Ana Ekran
+
 <div>
 <img src="./ReadmeImages/anasayfa1.png" width="30%" >
 <img src="./ReadmeImages/anasayfa2.png" width="30%" >
 <img src="./ReadmeImages/anasayfa3.png" width="30%" >
 </div>
+
 ## Detay
+
 <div>
 <img src="./ReadmeImages/liste1.png" width="30%" >
 <img src="./ReadmeImages/liste2.png" width="30%" >
 </div>
+
 ## Hata
+
 <div>
 <img src="./ReadmeImages/hata.png" width="30%" >
 </div>
